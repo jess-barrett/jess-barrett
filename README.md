@@ -28,64 +28,52 @@ Computer Science student at Kansas State University (graduating May 2026) and So
 
 ---
 
-## ⭐ Featured Project — Crucidex
-
+⭐ Featured Project — Crucidex
 <div align="center">
   <a href="https://crucidex.com">
-    <img src="./assets/crucidex-hero.png" alt="Crucidex" width="100%" />
+    <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/crucidex-hero.png" alt="Crucidex" width="100%" />
   </a>
 </div>
-
 <table>
 <tr>
 <td width="20%" align="center">
-  <img src="./assets/crucidex-logo.png" alt="Crucidex Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/crucidex-logo.png" alt="Crucidex Logo" width="120" />
 </td>
 <td width="80%">
-
-### A Letterboxd-style platform for video games
-
+A Letterboxd-style platform for video games
 Track your library, import from Steam, write reviews, follow friends, and discover games through collaborative filtering. Built solo end-to-end as my senior design project at Kansas State.
-
-The recommendation engine uses **Jaccard similarity weighted with rating alignment** (0.7 / 0.3), plus inverse popularity weighting and a minimum-shared-games threshold for scaling.
-
-**Stack:** Next.js · TypeScript · Supabase (PostgreSQL + Auth) · Tailwind v4 · IGDB API
-
+The recommendation engine uses Jaccard similarity weighted with rating alignment (0.7 / 0.3), plus inverse popularity weighting and a minimum-shared-games threshold for scaling.
+Stack: Next.js · TypeScript · Supabase (PostgreSQL + Auth) · Tailwind v4 · IGDB API
 <a href="https://crucidex.com"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
 <a href="https://github.com/jess-barrett/Crucidex"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
-
 </td>
 </tr>
 </table>
-
 <details>
 <summary><strong>📸 More screenshots</strong></summary>
-
 <br />
-
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="./assets/crucidex-library.png" alt="Library view" />
+  <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/crucidex-library.png" alt="Library view" />
   <br /><sub><b>Library — sortable, filterable, with hours and ratings</b></sub>
 </td>
 <td width="50%" align="center">
-  <img src="./assets/crucidex-recommendations.png" alt="Recommendations" />
+  <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/crucidex-recommendations.png" alt="Recommendations" />
   <br /><sub><b>Personalized recommendations from collaborative filtering</b></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-  <img src="./assets/crucidex-friends.png" alt="Friend profile" />
+  <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/crucidex-friends.png" alt="Friend profile" />
   <br /><sub><b>Friend profiles with shared activity feeds</b></sub>
 </td>
 <td width="50%" align="center">
-  <img src="./assets/crucidex-reviews.png" alt="Reviews" />
+  <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/crucidex-reviews.png" alt="Reviews" />
   <br /><sub><b>Reviews with hours played and rating</b></sub>
 </td>
 </tr>
 </table>
-
 </details>
 
 ---
