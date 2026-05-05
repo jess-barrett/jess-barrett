@@ -16,7 +16,11 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+web+developer;Game+development+enthusiast;Applied+ML+practitioner;Side+project+enjoyer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=B8253D&center=true&vCenter=true&width=600&lines=Full-stack+web+developer;Game+development+enthusiast;Applied+ML+practitioner;Side+project+enjoyer" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=jess-barrett&color=B8253D&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 </div>
 
@@ -28,32 +32,41 @@ Computer Science student at Kansas State University (graduating May 2026) and So
 
 ---
 
-⭐ Featured Project — Crucidex
+## ⭐ Featured Project — Crucidex
+
 <div align="center">
   <a href="https://crucidex.com">
     <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/Crucidex-Hero.PNG" alt="Crucidex" width="100%" />
   </a>
 </div>
+
 <table>
 <tr>
 <td width="20%" align="center">
   <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/apple-icon-dark.png" alt="Crucidex Logo" width="120" />
 </td>
 <td width="80%">
-A Letterboxd-style platform for video games
+
+### A Letterboxd-style platform for video games
+
 Track your library, import from Steam, write reviews, follow friends, and discover games through collaborative filtering. Built solo end-to-end as my senior design project at Kansas State.
-The recommendation engine uses Jaccard similarity weighted with rating alignment (0.7 / 0.3), plus inverse popularity weighting and a minimum-shared-games threshold for scaling.
-  
-Stack: Next.js · TypeScript · Supabase (PostgreSQL + Auth) · Tailwind v4 · IGDB API
+
+The recommendation engine uses **Jaccard similarity weighted with rating alignment** (0.7 / 0.3), plus inverse popularity weighting and a minimum-shared-games threshold for scaling.
+
+**Stack:** Next.js · TypeScript · Supabase (PostgreSQL + Auth) · Tailwind v4 · IGDB API
 
 <a href="https://crucidex.com"><img src="https://img.shields.io/badge/Live_Demo-B8253D?style=for-the-badge&logoColor=white" alt="Live Demo" /></a>
 <a href="https://github.com/jess-barrett/Crucidex"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+
 </td>
 </tr>
 </table>
+
 <details>
 <summary><strong>📸 More screenshots</strong></summary>
+
 <br />
+
 <table>
 <tr>
 <td width="50%" align="center">
@@ -76,6 +89,7 @@ Stack: Next.js · TypeScript · Supabase (PostgreSQL + Auth) · Tailwind v4 · I
 </td>
 </tr>
 </table>
+
 </details>
 
 ---
@@ -140,8 +154,16 @@ A 2D dungeon crawler built solo in C# and MonoGame. Personal project exploring g
 ## GitHub Activity
 
 <div align="center">
-  <img height="180" src="https://jess-barrett-stats.vercel.app/api?username=jess-barrett&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://jess-barrett-stats.vercel.app/api/top-langs/?username=jess-barrett&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://jess-barrett-stats.vercel.app/api?username=jess-barrett&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=B8253D&icon_color=B8253D" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=jess-barrett&theme=tokyonight&hide_border=true&fire=B8253D&currStreakLabelColor=B8253D&sideLabels=B8253D&dates=B8253D" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://jess-barrett-stats.vercel.app/api/top-langs/?username=jess-barrett&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=B8253D" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-barrett&theme=tokyo-night&hide_border=true&color=B8253D&line=B8253D&point=B8253D&area=true&area_color=B8253D" alt="Activity Graph" width="100%" />
 </div>
 
 ---
