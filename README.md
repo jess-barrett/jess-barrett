@@ -112,9 +112,12 @@ Intertaind is the spiritual successor to Crucidex, expanding the same recommenda
 
 ### [LunarLander-DQN](https://github.com/jess-barrett/LunarLander-DQN)
 
+<a href="https://github.com/jess-barrett/LunarLander-DQN">
+  <img src="https://gymnasium.farama.org/_images/lunar_lander.gif" alt="LunarLander DQN" width="100%" />
+</a>
 Comparing Deep Q-Network and Double DQN on the LunarLander-v3 environment with rigorous statistical evaluation across multiple training trials. Term project for K-State CIS 530 (AI/ML).
-
-**Stack:** Python · PyTorch · Gymnasium · NumPy
+Stack: Python · PyTorch · Gymnasium · NumPy
+<a href="https://github.com/jess-barrett/LunarLander-DQN"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
 
 </td>
 <td width="50%">
