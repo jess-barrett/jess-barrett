@@ -125,6 +125,7 @@ Comparing Deep Q-Network and Double DQN on the LunarLander-v3 environment with r
   <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/AnEchoOfLight-Cover.png" alt="An Echo of Light" width="100%" />
 </a>
 A 2D dungeon crawler built solo in C# and MonoGame. Personal project exploring game architecture, sprite animation, combat systems, and level design.
+
 Stack: C# · MonoGame · Tiled · Aseprite
 
 <a href="https://jboe.itch.io/an-echo-of-light"><img src="https://img.shields.io/badge/Play_on_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io" /></a>
