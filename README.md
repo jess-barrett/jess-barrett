@@ -37,7 +37,7 @@ Computer Science student at Kansas State University (graduating May 2026) and So
 <table>
 <tr>
 <td width="20%" align="center">
-  <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/web-app-manifest-512x512.png" alt="Crucidex Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/apple-icon-dark.png" alt="Crucidex Logo" width="120" />
 </td>
 <td width="80%">
 A Letterboxd-style platform for video games
