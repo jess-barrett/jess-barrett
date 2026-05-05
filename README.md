@@ -43,7 +43,7 @@ Computer Science student at Kansas State University (graduating May 2026) and So
 A Letterboxd-style platform for video games
 Track your library, import from Steam, write reviews, follow friends, and discover games through collaborative filtering. Built solo end-to-end as my senior design project at Kansas State.
 The recommendation engine uses Jaccard similarity weighted with rating alignment (0.7 / 0.3), plus inverse popularity weighting and a minimum-shared-games threshold for scaling.
-Stack: Next.js · TypeScript · Supabase (PostgreSQL + Auth) · Tailwind v4 · IGDB API
+Stack: Next.js · TypeScript · Supabase (PostgreSQL + Auth) · Tailwind v4 · IGDB API  
 <a href="https://crucidex.com"><img src="https://img.shields.io/badge/Live_Demo-B8253D?style=for-the-badge&logoColor=white" alt="Live Demo" /></a>
 <a href="https://github.com/jess-barrett/Crucidex"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
 </td>
