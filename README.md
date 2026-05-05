@@ -96,7 +96,7 @@ A cross-media tracking and discovery platform — Letterboxd, but for movies, TV
 
 The signature UI is virtual media displays — a real bookshelf, a video store wall, a game cartridge collection — that grow as you add titles. Designed to be screenshottable and shareable.
 
-Intertaind is the spiritual successor to Crucidex, expanding the same recommendation philosophy across all four media types. In active development as a long-burn solo project: shipping a polished V3, not a rough MVP.
+Intertaind is the spiritual successor to Crucidex, expanding the same recommendation philosophy across all four media types. In active development as a long-burn solo project.
 
 **Stack:** Next.js · TypeScript · Supabase · Tailwind · TMDB · IGDB · Google Books
 
@@ -119,9 +119,9 @@ Comparing Deep Q-Network and Double DQN on the LunarLander-v3 environment with r
 
 ### [An Echo of Light](https://github.com/jess-barrett/AnEchoOfLight)
 
-A 2D dungeon crawler built solo in C# and MonoGame. Personal project exploring game architecture, sprite animation, combat systems, and procedural level design.
+A 2D dungeon crawler built solo in C# and MonoGame. Personal project exploring game architecture, sprite animation, combat systems, and level design.
 
-**Stack:** C# · MonoGame
+**Stack:** C# · MonoGame · Tiled · Aseprite
 
 </td>
 </tr>
