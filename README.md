@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+web+developer;Game+development+enthusiast;Applied+ML+practitioner;Open+to+NYC+full-time+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+web+developer;Game+development+enthusiast;Applied+ML+practitioner;Side+project+enjoyer" alt="Typing SVG" />
 
 </div>
 
@@ -24,9 +24,7 @@
 
 ## About me
 
-Computer Science student at Kansas State University (graduating May 2026) and Software Engineer at **Go Local Interactive**. I build full-stack web applications, with a soft spot for game development and applied ML.
-
-Currently looking to relocate to NYC for full-time engineering roles.
+Computer Science student at Kansas State University (graduating May 2026) and Software Engineer at **Go Local Interactive**. I build full-stack web applications, with a soft spot for game development and web apps.
 
 ---
 
