@@ -31,13 +31,13 @@ Computer Science student at Kansas State University (graduating May 2026) and So
 ⭐ Featured Project — Crucidex
 <div align="center">
   <a href="https://crucidex.com">
-    <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/crucidex-hero.png" alt="Crucidex" width="100%" />
+    <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/Crucidex-Hero.PNG" alt="Crucidex" width="100%" />
   </a>
 </div>
 <table>
 <tr>
 <td width="20%" align="center">
-  <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/crucidex-logo.png" alt="Crucidex Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/web-app-manifest-512x512.png" alt="Crucidex Logo" width="120" />
 </td>
 <td width="80%">
 A Letterboxd-style platform for video games
@@ -55,21 +55,21 @@ Stack: Next.js · TypeScript · Supabase (PostgreSQL + Auth) · Tailwind v4 · I
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/crucidex-library.png" alt="Library view" />
+  <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/Crucidex-Library.PNG" alt="Library view" />
   <br /><sub><b>Library — sortable, filterable, with hours and ratings</b></sub>
 </td>
 <td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/crucidex-recommendations.png" alt="Recommendations" />
+  <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/Crucidex-Recommendations.PNG" alt="Recommendations" />
   <br /><sub><b>Personalized recommendations from collaborative filtering</b></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/crucidex-friends.png" alt="Friend profile" />
+  <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/Crucidex-Friends.PNG" alt="Friend profile" />
   <br /><sub><b>Friend profiles with shared activity feeds</b></sub>
 </td>
 <td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/crucidex-reviews.png" alt="Reviews" />
+  <img src="https://raw.githubusercontent.com/jess-barrett/jess-barrett/main/assets/Crucidex-Reviews.PNG" alt="Reviews" />
   <br /><sub><b>Reviews with hours played and rating</b></sub>
 </td>
 </tr>
