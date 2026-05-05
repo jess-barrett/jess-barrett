@@ -84,8 +84,6 @@ Stack: Next.js · TypeScript · Supabase (PostgreSQL + Auth) · Tailwind v4 · I
 
 A cross-media tracking and discovery platform — Letterboxd, but for movies, TV shows, books, **and** video games in one place. The core differentiator is cross-media recommendations: *"if you liked this book, you'd like this movie."*
 
-The signature UI is virtual media displays — a real bookshelf, a video store wall, a game cartridge collection — that grow as you add titles. Designed to be screenshottable and shareable.
-
 Intertaind is the spiritual successor to Crucidex, expanding the same recommendation philosophy across all four media types. In active development as a long-burn solo project.
 
 **Stack:** Next.js · TypeScript · Supabase · Tailwind · TMDB · IGDB · Google Books
